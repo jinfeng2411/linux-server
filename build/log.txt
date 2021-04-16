@@ -1,0 +1,1 @@
+2021-03-16 10:15:16	18655	threadName	0	[FATAL]	[jinfeng]	/home/jinfeng/linuxc/workplace/test/test_log.cc:25	fatal
